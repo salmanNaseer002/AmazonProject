@@ -1,0 +1,60 @@
+.Shop-category {
+	font-size: 1.1rem;
+	font-weight: 600;
+}
+
+.Shop-filter {
+	font-size: 1.1rem;
+	font-weight: 600;
+}
+
+.Category-heading {
+	font-weight: 650;
+}
+
+.Load-btn{
+	font-weight: 650;
+	width:  225px;
+	color: goldenrod;
+	background-color: white;
+	transition: 0.9s cubic-bezier(0.2, 1, 0.2, 1);
+	border-radius: 2px;
+	border: 1px solid #daa520;
+	box-shadow: 0 4px 8px #daa520;
+}
+
+.Load-btn:hover{
+	background-color:  goldenrod ;
+	border: 0.1px solid  goldenrod;
+	transform: translateY(-0.8px);
+	border-radius: 2px;
+	color: white;
+}
+.Filter-category{
+	font-weight: 650;
+	height: 40px;
+	color: yellowgreen;
+	background-color: white;
+	transition: 0.9s cubic-bezier(0.2, 1, 0.2, 1);
+	border-radius: 2px;
+	box-shadow: 0 4px 8px yellowgreen;
+}
+
+.Filter-category:hover{
+	background-color:  yellowgreen;
+	transform: translateY(-0.8px);
+	border-radius: 2px;
+	color: white;
+}
+
+.Filters:hover{
+	box-shadow: 0 4px 8px yellowgreen;
+}
+.Filter-title{
+	font-weight: 700;
+	height:  50px;
+	transform: translateY(-0.8px);
+	color: #484f55;
+	background-color:  white;
+	box-shadow: 0 4px 8px #484f55;
+}

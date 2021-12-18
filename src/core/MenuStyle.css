@@ -1,0 +1,10 @@
+.navbar-collapse {
+    text-align: center;
+    font-size: large;
+    /* padding: 10px; */
+}
+
+/* Navbar button hover */
+.navbtn:hover {
+	background-color: #484f55;
+}
