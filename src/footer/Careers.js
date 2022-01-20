@@ -9,7 +9,7 @@ const  Careers = () => {
     return ( 
         <div> 
         {/* <Menu /> */}
-        <Layout title="AlphaDnD Marketplace Career Opportunities" description="Our proven techniques used in the past projects give us confidence in the quality and effectiveness of our design, development and deployment processes."/>
+        <Layout title="Prep Centre Management System Career Opportunities" description="Our proven techniques used in the past projects give us confidence in the quality and effectiveness of our design, development and deployment processes."/>
         <div className="container  mt-3 ">
         <div className="row">
             <div className="col-md-12 mt-2 ">            

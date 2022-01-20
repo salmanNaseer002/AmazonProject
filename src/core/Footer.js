@@ -17,19 +17,19 @@ const Footer = () => {
         <img src={logo} height="20%" width="30%"  className="mr-4 mb-2"/>
 
         <p style={{color:"#a3a0a0",fontSize:"15px"}} className="text-justify mt-1">
-          Alpha DnD Marketplace is a part of Alpha DnD. It offers a plenty of web services. So Join us and become a part of Alpha DnD.
+          Prep centre management system is a part of Amazon prep centre. It offers a plenty of web services. So Join us and become a part of Prep centre management system.
         </p>
       </div>
      
 
      
       <div className="col-md-3 mb-4 mb-md-0 "  >
-        <h6 className="text-justify" style={{marginLeft:"70px"}}>Alpha DnD Market</h6>
+        <h6 className="text-justify" style={{marginLeft:"70px"}}>Prep Centre</h6>
 
         <ul className="list-unstyled text-justify mb-0 font-weight-normal " style={{marginLeft:"70px"}}>
           
           <li>
-            <Link   className="text" style={{color:"#a3a0a0"}} to="/shop">Themes and Template</Link>
+            <Link   className="text" style={{color:"#a3a0a0"}} to="/shop">Products</Link>
           </li>
           
         </ul>
@@ -40,14 +40,14 @@ const Footer = () => {
 
         <ul className="list-unstyled text-justify mb-0 font-weight-normal" style={{marginLeft:"70px"}} >
           <li>
-            <a className="text" style={{color:"#a3a0a0"}} href="http://alphadnd.com/">Alpha DnD Timeline</a>
+            <a className="text" style={{color:"#a3a0a0"}} href="http://alphadnd.com/">Prep Centre Timeline</a>
           </li>
           
           <li>
-            <Link   className="text" style={{color:"#a3a0a0"}} to="/switchToSeller/:userId">Selling on AlphaDnD</Link>
+            <Link   className="text" style={{color:"#a3a0a0"}} to="/switchToSeller/:userId">Selling on Prep Centre</Link>
           </li>
           <li>
-            <Link   className="text" style={{color:"#a3a0a0"}} to="/switchToBuyer/:userId">Buying on AlphaDnD</Link>
+            <Link   className="text" style={{color:"#a3a0a0"}} to="/switchToBuyer/:userId">Buying on Prep Centre Management System</Link>
           </li>
         </ul>
       </div>    
@@ -61,7 +61,7 @@ const Footer = () => {
           </li>
          
           <li>
-            <Link   className="text" style={{color:"#a3a0a0"}} to="/about">About AlphaDnD</Link>
+            <Link   className="text" style={{color:"#a3a0a0"}} to="/about">About Prep Centre</Link>
           </li>
           
         </ul>
@@ -90,7 +90,7 @@ const Footer = () => {
 
  
   <div className="text-center p-3 font-weight-normal" style={{fontFamily:"sans-serif",fontSize:"14px"}}>
-    © 2021 AlphaDnD.
+    © 2021 Prep Centre Management System.
     <Link to="/" style={{textDecoration:"none",color:"#a3a0a0"}}> Trademarks and brands are the property of their respective owners.
 </Link>
   </div>

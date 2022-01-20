@@ -69,8 +69,8 @@ const WishList = () => {
   return (
     <div>
     <Layout
-    title="MarketPlace For AlphaD&D."
-    description='marketplace for react themes and plugins made in AlphaD&D, which is a web based application, used to make themes and plugins by simply dragging and dropping options.'
+    title="Prep Centre Management System."
+    description='Prep Centre to keep products, which is a web based application. Prep is the process of getting your inventory ready to send into Amazon.'
     className="container-fluid"
     />
     <div className="mt-5 mb-5 container">

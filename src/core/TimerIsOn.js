@@ -27,11 +27,9 @@ const TimerIsOn = () => {
     };
 
     useEffect(() => {
-        
-        loadSingleProduct();
-       
-        
+      loadSingleProduct();
     }, []);
+
     const update = () => {
         setJustEnd(true)
       }

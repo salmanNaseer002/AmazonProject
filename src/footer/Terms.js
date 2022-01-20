@@ -15,7 +15,7 @@ const  Terms = () => {
         <div className="row">
             <div className="col-md-10 mt-2 border mx-auto">            
             <h1 className="border-bottom"><img src={logo} height="5%" width="5%"  className="mr-4 mb-1"/>Market Terms</h1>
-            <h3 className="text-justify mt-4">Welcome to Alpha DnD Market
+            <h3 className="text-justify mt-4">Welcome to Prep Centre Management System
             </h3>
             <p className="text-justify mt-4">
                 1. Hi, we’re Envato and welcome! We’re happy to have you here and we hope you enjoy your stay. 

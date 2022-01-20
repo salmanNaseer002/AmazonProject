@@ -99,8 +99,8 @@ const Shop = () => {
     return (
         <div>
         <Layout
-            title="Get The Themes And Plugins Of Your Choice"
-            description="Have almost all types of themes and plugins that surely met the needs of developers."
+            title="Get The Products Of Your Choice"
+            description="Have almost all types of Products that surely met the needs of users."
             className="container-fluid"
         />
             <div  style ={{margin : '5%'}} >  
